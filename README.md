@@ -10,3 +10,4 @@ Here is my daily paper reading notes.
 | 2023-6-17 | Self-cross-contrastive | Self-cross-contrastive |
 | 2023-6-18 | CAV-MAE                | CAV-MAE                |
 | 2023-6-18 | MOCO                   | MOCO                   |
+
