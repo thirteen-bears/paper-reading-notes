@@ -14,4 +14,6 @@ Here is my daily paper reading notes.
 | 2023-6-21 | MOCO                   | MOCO                   |
 | 2023-6-21 | MAE                    | MAE                    |
 | 2023-6-24 | video-MAE              | video-MAE              |
+| 2023-6-24 | video-SSL              | video-SSL              |
+
 
