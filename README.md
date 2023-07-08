@@ -15,5 +15,6 @@ Here is my daily paper reading notes.
 | 2023-6-22 | MAE                    | MAE                    |
 | 2023-6-24 | video-MAE              | video-MAE              |
 | 2023-6-26 | video-SSL              | video-SSL              |
+| 2023-6-26 | attention is ayn       | attention is ayn       |
 
 
